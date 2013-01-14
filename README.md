@@ -13,3 +13,6 @@
 
 ##需自行設定項目
 - 資料庫連結設定(linK_db.php)的資料
+
+##詳細說明
+-請看blog[http://yiyingloveart.blogspot.tw/2012/09/phpjqueryajaxloign.html]
