@@ -1,5 +1,5 @@
 #PHP+AJAX+HTML練習登入/登出作品
-
+![ScreenShot](http://3.bp.blogspot.com/-RzNr9h8JXq0/UGHX8hUqr2I/AAAAAAAAB24/_bnQouOIKao/s640/01.png)
 ##基本說明
 - 只是個小demo作品
 - 使用MySQL/PHP/html/CSS
