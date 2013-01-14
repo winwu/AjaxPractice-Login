@@ -1,15 +1,15 @@
-#PHP+AJAX+HTML�m�ߵn�J/�n�X�@�~
+#PHP+AJAX+HTML練習登入/登出作品
 
-##�򥻻���
-- �u�O�Ӥpdemo�@�~
-- �ϥ�MySQL/PHP/html/CSS
+##基本說明
+- 只是個小demo作品
+- 使用MySQL/PHP/html/CSS
 
 
-##�D�n�\��
+##主要功能
 - Login/Logout
 
-##���[�ɮ�
-- Demo��SQL�ɮ�
+##附加檔案
+- Demo用SQL檔案
 
-##�ݦۦ�]�w����
-- ��Ʈw�s���]�w(linK_db.php)�����
+##需自行設定項目
+- 資料庫連結設定(linK_db.php)的資料
