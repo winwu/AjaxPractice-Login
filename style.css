@@ -1,0 +1,74 @@
+/*author : win*/
+html{
+	background:url(./img/bg.jpg) no-repeat center center; min-height:100%;
+    background-size:cover;
+}
+#login_block{
+	background: url(./img/lo_bg.png) no-repeat;
+	width: 317px;
+	height: 400px;
+	margin: 0px auto;
+	margin-top: 50px;
+	padding: 82px 10px 10px 51px;
+	font-family: arial
+}
+#submit,
+#submit2{
+	background: #5A2626;
+	border: 0px;
+	color: white;
+	padding: 5px 10px;
+	width: 243px;
+	margin-top: 10px;
+	font-size: 18px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;cursor: pointer;
+}
+#error_msg{
+	width: 224px;
+	background: #525150;
+	display: block;
+	color: white;
+	padding: 0px 10px;
+	font-size: 12px;
+	margin: 1px;
+	line-height: 26px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+input[type=text],
+input[type=password]{
+	border: 1px solid white;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding: 5px;
+	-moz-box-shadow: 3px 3px 5px #000000;
+	-webkit-box-shadow: 2px 2px 3px #424242;
+	box-shadow: 2px 2px 2px #5A5A5A;width: 231px;
+}
+label{
+	width: 74px;
+	display: block;
+	padding: 3px 3px;
+}
+#loading_div,
+#login_success,
+#loadingout_div{
+	text-align: center;
+	width: 252px;
+	margin-top: 10px;
+}
+#login_success{width: 269px;}
+#login_showname{
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+}
+#ft{
+	font-family: arial;
+	font-size: 10px;
+	text-align: center;
+}
